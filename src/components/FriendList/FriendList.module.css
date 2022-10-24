@@ -1,5 +1,3 @@
-@import-normalize; /* bring in normalize.css styles */
-
 .friend_list {
   background-color: #f3f6f9;
   border-radius: 10px;
